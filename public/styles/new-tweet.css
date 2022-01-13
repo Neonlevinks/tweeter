@@ -1,0 +1,29 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  padding-top: 5%;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Bungee", sans-serif;
+}
+
+#tweet-button {
+  background-color: #4056a1;
+  color: #ffff;
+}
+
+label {
+  border-bottom: 3px solid black;
+  padding-bottom: 3%;
+}
+
+textarea {
+  margin-top: 3%;
+}
+
+.new-tweet {
+  width: 80%;
+}

@@ -1,0 +1,56 @@
+.tweet-holder {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  width: 90%;
+  padding-bottom: 5%;
+}
+
+.tweet {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  border: black solid 3px;
+  padding-left: .5em;
+  padding-right: .5em;
+  margin: 3%;
+}
+
+.tweet-header {
+  margin-top: 10%;
+  margin-bottom: 7%;
+  display: flex;
+  height: 1em;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: inherit;
+  background-image: none;
+}
+
+.header-left {
+  display: flex;
+}
+
+.profile {
+  height: 2em;
+}
+
+.footers {
+  color: #4056a1;
+  size: .5em;
+}
+
+article.tweet:hover {
+  box-shadow: 5px 5px lightslategrey
+  ; 
+}
+
+i.footers:hover {
+  color: goldenrod;
+}
+
+.days {
+  font-size: .6em;
+  display: flex;
+  align-items: center;
+}
