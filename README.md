@@ -16,3 +16,11 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+- Body-Parser
+- Chance
+
+## Documentation
+
+There are 3 distinct media sizes for this twitter clone, phone for under 748px, tablets for between 748 and 1024px, and desktops for above 1024 px.
+
+Here is an example of how the page looks on mobile.
