@@ -27,6 +27,10 @@ Here is an example of how the page looks on mobile.
 
 !["Screenshot of mobile view"](https://github.com/Neonlevinks/tweeter/blob/master/docs/mobile.png?raw=true)
 
+Here is an example of how the page looks on a tablet.
+
 !["Screenshot of tablet view"](https://github.com/Neonlevinks/tweeter/blob/master/docs/tablet.png?raw=true)
+
+Here is an example of how the page looks on a desktop/laptop.
 
 !["Screenshot of desktop view"](https://github.com/Neonlevinks/tweeter/blob/master/docs/desktop.png?raw=true)
