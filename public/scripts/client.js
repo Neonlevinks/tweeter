@@ -78,6 +78,7 @@ $(document).ready(() => {
     success: () => {
       loadTweets();
       $("textarea").val('');
+      $(".error").fadeOut('slow');
     }
     });
   })

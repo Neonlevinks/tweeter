@@ -44,7 +44,7 @@ body {
   display: none;
   background-color: goldenrod;
   color: red;
-  padding: 2.5%;
+  padding: 1%;
   position: absolute;
   z-index: 1;
 }
