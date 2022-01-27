@@ -44,7 +44,9 @@ body {
   display: none;
   background-color: goldenrod;
   color: red;
-  padding: 10%;
+  padding: 2.5%;
+  position: absolute;
+  z-index: 1;
 }
 
 @media only screen and (min-width: 748px)  {

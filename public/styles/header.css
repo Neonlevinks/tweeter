@@ -10,30 +10,3 @@ header {
   margin-top: 120px;
 }
 
-@media only screen and (min-width: 748px)  {
-  header {
-    width: fit-content;
-    margin-top: 120px;
-  }
-
-  main {
-    margin-top: 120px;
-  }
-}
-
-@media only screen and (min-width: 1024px)  {
-  header {
-    width: 25%;
-    height: 25%;
-    background-color: indigo;
-    color: ivory;
-  }
-
-  nav {
-    background-color: indigo;
-  }
-
-  a {
-    background-color: indigo;
-  }
-}

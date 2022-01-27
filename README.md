@@ -24,3 +24,9 @@ This repository is the starter code for the project: Students will fork and clon
 There are 3 distinct media sizes for this twitter clone, phone for under 748px, tablets for between 748 and 1024px, and desktops for above 1024 px.
 
 Here is an example of how the page looks on mobile.
+
+!["Screenshot of mobile view"](https://github.com/Neonlevinks/tweeter/blob/master/docs/mobile.png?raw=true)
+
+!["Screenshot of tablet view"](https://github.com/Neonlevinks/tweeter/blob/master/docs/tablet.png?raw=true)
+
+!["Screenshot of desktop view"](https://github.com/Neonlevinks/tweeter/blob/master/docs/desktop.png?raw=true)
