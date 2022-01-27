@@ -77,7 +77,8 @@ $(document).ready(() => {
     data: $value,
     success: () => {
       loadTweets();
-      }
+      $("textarea").val('');
+    }
     });
   })
 
