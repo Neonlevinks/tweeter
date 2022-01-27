@@ -16,12 +16,12 @@ $(document).ready(() => {
             <img class="profile" src="${tweetObject.user.avatars}" alt="">
           </div>
     
-          <div>
+          <div class="username">
             ${tweetObject.user.name}
           </div>
         </div>
                 
-        <div class="header-right">
+        <div class="header-right username" >
           ${tweetObject.user.handle}
         </div>
     

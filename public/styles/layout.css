@@ -49,6 +49,10 @@ body {
   z-index: 1;
 }
 
+.username {
+  color: black;
+}
+
 @media only screen and (min-width: 748px)  {
   main {
     width: 60%;
@@ -88,4 +92,5 @@ body {
   nav {
     background-color: indigo;
   }
+
 }
