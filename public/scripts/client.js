@@ -43,9 +43,12 @@ $(document).ready(() => {
   };
 
   const renderTweets = (tweets) => {
+    const container = $(".tweet-holder");
+    container.empty();
+
     for (const tweet of tweets) {
       const tweetElement = createTweetElement(tweet);
-      $(".tweet-holder").append(tweetElement);
+      container.append(tweetElement);
     };
   };
 
